@@ -1,0 +1,52 @@
+#fondo{
+    background-color: rgb(255, 214, 214);
+}
+table{
+    width:1px ;
+    background-color:  rgb(182, 182, 182);
+}
+table th, table td{
+    background-color: bisque;
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+}
+table th{
+    background-color: blue;
+    color: aliceblue;
+}
+#c1{
+    background-color: blue;
+    color: aliceblue;
+}
+#postab{
+    text-align: center;
+}
+#encabezado{
+    background-color: rgb(60, 255, 239);
+    font-size: 20px;
+    border-radius: 20px;
+}
+h1, h2, h3{
+    text-align: center;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#img{
+    text-align: center;
+}
+div{
+    margin: 20px;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4)
+}
+footer{
+    background-color: aquamarine;
+    font-size: 60px;
+}
