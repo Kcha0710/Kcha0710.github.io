@@ -1,6 +1,6 @@
-function validacion(){
-const form = document.getElementById("nombre");
-        form.addEventListener('Enviar',function(event){
+
+const form = document.getElementById("form1");
+        form.addEventListener('submit',function(event){
             const nya = document.getElementById('nya').value;
             const email = document.getElementById('email').value;
             const numero = document.getElementById('numero').value;
@@ -11,4 +11,4 @@ const form = document.getElementById("nombre");
                 alert('Formulario enviado correctamente!')
             }
         })
-    }
+    
